@@ -1,0 +1,1 @@
+{"COL1":"numeric","COL2":"numeric","COL3":"numeric","COL4":"numeric","COL5":"numeric","COL6":"numeric","COL7":"character","COL8":"character","COL9":"character"}
